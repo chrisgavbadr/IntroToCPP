@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1528398814 source:c:\users\cbadu\documents\c++ programs\ch 13 project - coin toss\main.cpp
+	<iostream>
+	<iomanip>
+	"Coin.h"
+
+1528340841 c:\users\cbadu\documents\c++ programs\ch 13 project - coin toss\include\coin.h
+	<iostream>
+
+1528340841 source:c:\users\cbadu\documents\c++ programs\ch 13 project - coin toss\src\coin.cpp
+	"Coin.h"
+	<iostream>
+	<cstdlib>
+	<ctime>
+

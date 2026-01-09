@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1527219092 source:c:\users\cbadu\documents\c++ programs\chapter 13 practice\main.cpp
+	<iostream>
+	<iomanip>
+	<cmath>
+	"RightTriangle.h"
+
+1527221402 source:c:\users\cbadu\documents\c++ programs\chapter 13 practice\righttriangle.cpp
+	"RightTriangle.h"
+	<iostream>
+	<cstdlib>
+	<cmath>
+
+1527221361 c:\users\cbadu\documents\c++ programs\chapter 13 practice\righttriangle.h
+

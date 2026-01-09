@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1527219347 source:c:\users\cbadu\documents\c++ programs\ch 10 project - programming challenges\main.cpp
+	<iostream>
+	<cctype>
+	<string>
+	<cstring>
+

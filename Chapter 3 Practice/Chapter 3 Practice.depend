@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1526094980 source:c:\users\cbadu\documents\c++ programs\chapter 3 practice\main.cpp
+	<iostream>
+	<cstdlib>
+	<iomanip>
+

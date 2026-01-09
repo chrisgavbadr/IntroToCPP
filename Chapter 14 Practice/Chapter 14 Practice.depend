@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1514144174 source:c:\users\cbadu\documents\c++ programs\chapter 14 practice\main.cpp
+	<iostream>
+
+1527798471 source:c:\users\cbadu\documents\c++ programs\chapter 14 practice\src\parkingmeter.cpp
+	"ParkingMeter.h"
+
+1527798472 c:\users\cbadu\documents\c++ programs\chapter 14 practice\include\parkingmeter.h
+
+1527795293 source:c:\users\cbadu\documents\c++ programs\chapter 14 practice\src\parkingticket.cpp
+	"ParkingTicket.h"
+
+1527795293 c:\users\cbadu\documents\c++ programs\chapter 14 practice\include\parkingticket.h
+
+1527802256 source:c:\users\cbadu\documents\c++ programs\chapter 14 practice\src\parkedcar.cpp
+	"ParkedCar.h"
+	<iostream>
+
+1527796878 c:\users\cbadu\documents\c++ programs\chapter 14 practice\include\parkedcar.h
+	<iostream>
+
